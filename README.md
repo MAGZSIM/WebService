@@ -1,1 +1,0 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/u111f0p9jrbuqdr5?svg=true)](https://ci.appveyor.com/project/MAGZSIM/webservice)
